@@ -1,20 +1,23 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Echoes of Nature
 
-# Run and deploy your AI Studio app
+Echoes of Nature is an immersive sensory journey through the Earth's most diverse biospheres. Experience the visual beauty and harmonic sounds of various natural landscapes.
 
-This contains everything you need to run your app locally.
+## Explore the Types of Landscapes
 
-View your app in AI Studio: https://ai.studio/apps/2dcba196-760e-4b0d-b796-2bf2fbeb84a0
+Discover the unique characteristics, flora, and fauna of different natural environments:
 
-## Run Locally
+*   **Arid Desert**: A vast expanse of golden dunes and extreme beauty where life has mastered the art of survival.
+*   **Deep Forest**: Ancient trees whispering secrets in the dappled sunlight and misty hollows.
+*   **Golden Savanna**: Rolling plains where life moves in perfect harmony under a never-ending horizon.
+*   **Luminous Deep**: The mysterious heart of our planet, teeming with abyssal wonder and bioluminescence.
+*   **Majestic Peaks**: Where the earth touches the sky in jagged grandeur and thin, silent air.
+*   **Arctic Tundra**: A frozen landscape under the ethereal Northern Lights where only the strongest endure.
 
-**Prerequisites:**  Node.js
+## Features
 
+*   **Immersive Audio**: High-quality atmospheric sounds for each biosphere.
+*   **Dynamic Visuals**: Stunning imagery and smooth parallax transitions.
+*   **Educational Content**: Detailed information about living beings (Fauna, Flora, and Aves) found in each region.
+*   **Interactive Experience**: Seamless scrolling and hover effects for a deep dive into nature.
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Experience the harmony of our planet. Scroll to begin your journey.
